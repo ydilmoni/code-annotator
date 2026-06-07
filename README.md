@@ -1,4 +1,4 @@
-# Code Annotator · מתעד קוד
+# מתעד קוד · ode Annotator
 
 A Claude Code / Agent Skill that adds rich, intent-focused comments to source code — in **Hebrew or English** — without changing a single line of logic.
 

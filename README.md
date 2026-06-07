@@ -43,7 +43,7 @@ Copy-Item "code-annotator-claude-skill\SKILL.md" "$HOME\.claude\skills\code-anno
 
 Reload your editor window, then just ask in natural language:
 
-> Add comments to `lib/repositories/task_repository.dart`
+> Add comments to `src/services/order-service.js`
 
 ### What the output looks like
 
@@ -106,7 +106,7 @@ Copy-Item "code-annotator-claude-skill\SKILL.md" "$HOME\.claude\skills\code-anno
 
 רענן את חלון העורך, ואז פשוט בקש בשפה טבעית:
 
-> תוסיף הערות לקובץ `lib/repositories/task_repository.dart`
+> תוסיף הערות לקובץ `src/services/order-service.js`
 
 ### איך נראה הפלט
 

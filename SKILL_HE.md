@@ -3,8 +3,23 @@ name: code-annotator
 description: מוסיף הערות עשירות וממוקדות-כוונה לקוד מקור, בעברית או באנגלית. קורא את הקוד ברמת הארכיטקטורה — מבין מה כל פונקציה עושה, איך הקבצים והפונקציות מתחברים זה לזה, ואילו סקופים, תגים או חוזים (contracts) קוד אחר מסתמך עליהם — ואז כותב כותרות לקבצים, הערות לכל פונקציה, מחיצות סקופ, והערות הצלבה בין קבצים. השתמש בסקיל הזה בכל פעם שמבקשים להוסיף הערות, לתעד קוד, להסביר קובץ, להעיר על פונקציות, להוסיף כותרות, לסמן סקציות/סקופים, או כשכותבים "תוסיף הערות", "תתעד את הקוד", "תסביר מה כל פונקציה עושה" וכדומה — בכל שפה (Dart, TypeScript, JavaScript, PHP, Python וכו'). הפעל גם אם המשתמש לא אומר את המילה "skill".
 license: MIT
 metadata:
-  display_name: מתעד קוד
-  display_description: מוסיף הערות עשירות וברורות לקוד בעברית או באנגלית — כותרות לקבצים, הערות לכל פונקציה, מחיצות סקופ עם שם, וחוזים בין קבצים — בלי לשנות אף שורת לוגיקה.
+  display_name:
+    en: Code Annotator
+    he: מתעד קוד
+  display_description:
+    en: Adds rich, intent-focused comments to code in Hebrew or English — file headers, per-function notes, named scope dividers, and cross-reference contracts — without changing any logic.
+    he: מוסיף הערות עשירות וברורות לקוד בעברית או באנגלית — כותרות לקבצים, הערות לכל פונקציה, מחיצות סקופ עם שם, וחוזים בין קבצים — בלי לשנות אף שורת לוגיקה.
+  tags:
+    en:
+      - documentation
+      - code-comments
+      - developer-tools
+      - code-quality
+    he:
+      - תיעוד
+      - הערות-קוד
+      - כלי-פיתוח
+      - איכות-קוד
   categories:
     - developer-tools
     - documentation

@@ -1,10 +1,25 @@
 ---
 name: code-annotator
-description: Adds rich, intent-focused comments to source code in Hebrew or English. Reads code at the architecture level — understands what each function does, how files and functions connect, and which scopes, tags, or contracts other code relies on — then writes file headers, per-function comments, scope dividers, and cross-reference notes. Use this skill whenever the user asks to comment code, document code, explain a file, annotate functions, add headers, mark sections/scopes, or asks "add documentation", or similar — in any language (Dart, TypeScript, JavaScript, PHP, Python, etc.). Trigger even if the user does not say the word "skill".
+description: Adds rich, intent-focused comments to source code in Hebrew or English. Reads code at the architecture level — understands what each function does, how files and functions connect, and which scopes, tags, or contracts other code relies on — then writes file headers, per-function comments, scope dividers, and cross-reference notes. Use this skill whenever the user asks to comment code, document code, explain a file, annotate functions, add headers, mark sections/scopes, or asks "תוסיף הערות", "תתעד את הקוד", "תסביר מה כל פונקציה עושה", or similar — in any language (Dart, TypeScript, JavaScript, PHP, Python, etc.). Trigger even if the user does not say the word "skill".
 license: MIT
 metadata:
-  display_name: Code Annotator
-  display_description: Adds rich, intent-focused comments to code in Hebrew or English — file headers, per-function notes, named scope dividers, and cross-reference contracts — without changing any logic.
+  display_name:
+    en: Code Annotator
+    he: מתעד קוד
+  display_description:
+    en: Adds rich, intent-focused comments to code in Hebrew or English — file headers, per-function notes, named scope dividers, and cross-reference contracts — without changing any logic.
+    he: מוסיף הערות עשירות וברורות לקוד בעברית או באנגלית — כותרות לקבצים, הערות לכל פונקציה, מחיצות סקופ עם שם, וחוזים בין קבצים — בלי לשנות אף שורת לוגיקה.
+  tags:
+    en:
+      - documentation
+      - code-comments
+      - developer-tools
+      - code-quality
+    he:
+      - תיעוד
+      - הערות-קוד
+      - כלי-פיתוח
+      - איכות-קוד
   categories:
     - developer-tools
     - documentation

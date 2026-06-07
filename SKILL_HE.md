@@ -7,8 +7,8 @@ metadata:
     en: Code Annotator
     he: מתעד קוד
   display_description:
-    en: Adds rich, intent-focused comments to code in Hebrew or English — file headers, per-function notes, named scope dividers, and cross-reference contracts — without changing any logic.
-    he: מוסיף הערות עשירות וברורות לקוד בעברית או באנגלית — כותרות לקבצים, הערות לכל פונקציה, מחיצות סקופ עם שם, וחוזים בין קבצים — בלי לשנות אף שורת לוגיקה.
+    en: Comments code in Hebrew or English without changing logic.
+    he: מעיר על קוד בעברית או אנגלית בלי לשנות לוגיקה.
   categories:
     - developer-tools
     - documentation
